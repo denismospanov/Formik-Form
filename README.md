@@ -1,6 +1,6 @@
 # Formik-Form
 
-##How to run
+## How to run
 In terminal, navigate to this folder, then enter:
 npm install
 npm run 
